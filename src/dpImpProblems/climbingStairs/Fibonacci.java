@@ -1,4 +1,4 @@
-package dpImpProblems;
+package dpImpProblems.climbingStairs;
 
 public class Fibonacci {
     public static int fibTabulation(int n) {

@@ -1,4 +1,4 @@
-package dpImpProblems;
+package dpImpProblems.climbingStairs;
 
 import java.util.Arrays;
 

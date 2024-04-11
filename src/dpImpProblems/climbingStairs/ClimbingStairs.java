@@ -1,4 +1,4 @@
-package dpImpProblems;
+package dpImpProblems.climbingStairs;
 
 public class ClimbingStairs {
     public static int countWays(int number) {
