@@ -1,4 +1,4 @@
-package dpImpProblems.targetSumSubset;
+package dpImpProblems.problems;
 
 public class TargetSubset {
     public static boolean targetSumSubset(int[] nums, int target) {

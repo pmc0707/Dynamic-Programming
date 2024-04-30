@@ -1,4 +1,4 @@
-package dpImpProblems.targetSumSubset;
+package dpImpProblems.problems;
 
 public class LongestCommonSubstring {
     //0(n*m)

@@ -1,4 +1,4 @@
-package dpImpProblems.targetSumSubset;
+package dpImpProblems.problems;
 
 import java.util.Arrays;
 import java.util.HashSet;

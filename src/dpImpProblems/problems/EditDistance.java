@@ -1,4 +1,4 @@
-package dpImpProblems.targetSumSubset;
+package dpImpProblems.problems;
 
 public class EditDistance {
     public static int editDistance(String str1, String str2) {
